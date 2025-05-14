@@ -116,6 +116,6 @@ medichat/
 * **Advanced Medicine Extraction**: Integrate specialized Named Entity Recognition (NER) models for more accurate extraction.
 * **Enhanced Health Expert**: Incorporate domain-specific knowledge bases to improve response accuracy.
 * **User Authentication**: Implement authentication mechanisms for personalized health records.
-* **Data Persistence**: Add database support to store chat history and user data.([GeeksforGeeks][2])
+* **Data Persistence**: Add database support to store chat history and user data.
 
 ---
