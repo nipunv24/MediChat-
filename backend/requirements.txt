@@ -9,3 +9,5 @@ langgraph
 transformers
 torch
 numpy
+google-generativeai
+dotenv
